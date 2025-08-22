@@ -37,10 +37,8 @@
 .tm-switch[data-mode="dark"] .tm-icon-sun { opacity: 0; }
 .tm-switch[data-mode="dark"] .tm-icon-moon { opacity: 1; }
 .tm-switch[data-mode="dark"] .tm-thumb { transform: translateX(calc(var(--tm-w) - var(--tm-thumb) - 4px)); background: #1e2230; }
-
 .tm-fixed-slot { position: fixed; pointer-events: auto; }
 #tm-toggle.tm-floating { position: fixed; right: 14px; bottom: 14px; z-index: 2147483000; }
-
 [data-theme="dark"] .tm-switch {
   --tm-switch-bg: #2a2f3a;
   --tm-switch-thumb: #0f1318;
