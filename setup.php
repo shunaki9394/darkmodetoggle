@@ -12,7 +12,7 @@ function plugin_init_thememode() {
 function plugin_version_thememode() {
    return [
       'name'           => 'Theme Mode (Dark/Light Toggle)',
-      'version'        => '2.2.0',
+      'version'        => '3.4.0',
       'author'         => 'Qbix / ChatGPT',
       'license'        => 'MIT',
       'homepage'       => 'https://qbix.tech',
